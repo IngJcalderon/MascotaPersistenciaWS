@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MascotaMenus</string>
+    <string name="action_settings">Settings</string>
+    <string name="mContacto">Contacto</string>
+    <string name="mAcerca">Acerca de</string>
+    <string name="etNombre">Nombre</string>
+    <string name="etCorreo">Email</string>
+    <string name="etMensaje">Mensaje</string>
+    <string name="btnComentario">Enviar Comentario</string>
+    <string name="tituloContacto">Contacto</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
